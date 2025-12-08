@@ -1,0 +1,6 @@
+Optional: Enter guidance to customize recommendations.
+
+Examples:
+- Learner has only 3 hours/week
+- Deadline in 4 weeks
+- Needs more hands-on labs

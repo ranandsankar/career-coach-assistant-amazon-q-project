@@ -1,0 +1,22 @@
+[
+    {
+        "keyPrefix": "s3://career4all-course-catalog-anandsr/data/Medicine",
+        "aclEntries": [
+            {
+                "Name": "career.coach.one",
+                "Type": "USER",
+                "Access": "ALLOW"
+            }
+        ]
+    },
+        {
+        "keyPrefix": "s3://career4all-course-catalog-anandsr/data/Medicine",
+        "aclEntries": [
+            {
+                "Name": "career.coach.two",
+                "Type": "USER",
+                "Access": "DENY"
+            }
+        ]
+    }
+]
