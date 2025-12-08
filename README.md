@@ -26,7 +26,7 @@ Each folder supports a specific part of the project.
 
 ---
 
-## 🎯 Features Implemented (Full Rubric Coverage)
+## 🎯 Features Implemented
 
 - ✔ Q App with 2 input cards (CV, JD)
 - ✔ Skill Gap Analysis output card
